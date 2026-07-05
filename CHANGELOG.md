@@ -1,3 +1,7 @@
+# v1.0.0.1
+
+Fix Cabal metadata
+
 # v1.0.0
 
 Initial release, with:

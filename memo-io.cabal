@@ -1,7 +1,7 @@
 cabal-version: 3.0
 
 name: memo-io
-version: 1.0.0
+version: 1.0.0.1
 synopsis: Memoize and global IO utilities.
 description: Memoize and global IO utilities. See README for more details.
 homepage: https://github.com/brandonchinn178/memo-io#readme
@@ -18,7 +18,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/brandonchinn178/skeletest
+  location: https://github.com/brandonchinn178/memo-io
 
 flag global-io
   description: Whether to include globalIO functionality
